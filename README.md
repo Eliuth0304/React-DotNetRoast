@@ -71,7 +71,7 @@ Server=localhost;Port={};User Id={};Password={};Database=app
 
 1. Clone this repository:
     ```
-    git clone https://github.com/AmielCyber/ReactRoastDotnet
+    git clone https://github.com/Kenneth0230/React-DotNetRoast
     ```
 2. Go to the API repository
     ```
